@@ -16,7 +16,7 @@ namespace VinlyStore_BABOOST_ADONET_OnurK
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LoginScreeen());
         }
     }
 }
